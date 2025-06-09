@@ -46,7 +46,6 @@ Para utilizar nosso aplicativo é preciso criar um novo banco de dados no fireba
 13. Depois de copiar os dados necessários, feche o menu de registro de app.
 
 14. Abra o projeto e no caminho MyFinance/js/app.js cole as inforamações copiadas para dentro de initializeApp.
-
     Dessa forma deverá ser alterado apenas as informações de apiKey, authDomain, projectId, storageBucket, messagingSenderId, appId, measurementId.
 
 15. Caso não tenha copiado as informações necessárias, podemos acessa-lás novamente clicando em app na tela home do console firebase.
