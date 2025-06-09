@@ -19,13 +19,13 @@ Banco de Dados: Firebase
 
 Para utilizar nosso aplicativo é preciso criar um novo banco de dados no firebase.
 
-1. Para deve-se entrar em: firebase.google.com logar com sua conta google.
+1. Para isso deve-se entrar em: firebase.google.com logar com sua conta google.
 
 2. Após logar devemos ir ao console firebase criar um novo projeto.
 
 3. Escolha um nome para seu projeto, *nas próximas páginas desative o gemini e o google analytics*.
 
-4. Entre em seu projeto vá em criação e selecione Firestore Database.
+4. Entre em seu projeto vá em criação no menu esquerdo, selecione Firestore Database.
 
 5. Crie um banco de dados no modo de teste.
 
@@ -37,7 +37,7 @@ Para utilizar nosso aplicativo é preciso criar um novo banco de dados no fireba
 
 9. Através do menu do lado esquerdo, volte até Visão geral do projeto.
 
-10. Selecione o app Web para adiciona-lo ao seu projeto.
+10. Na tela home, selecione o app Web para adiciona-lo ao seu projeto.
 
 11. Escolha um nome e *não selecione o Firebase Hosting*.
 
@@ -51,3 +51,7 @@ Para utilizar nosso aplicativo é preciso criar um novo banco de dados no fireba
 15. Caso não tenha copiado as informações necessárias, podemos acessa-lás novamente clicando em app na tela home do console firebase.
 
 16. Logo após vá na engrenagem de configuração e as informações necessárias estrão lá para uso.
+
+# Considerações
+
+Vale ressaltar que o projeto é apenas para testes e estudo acadêmico, por tanto não é recomendável seu uso em produção.
